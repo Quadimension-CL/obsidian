@@ -7,9 +7,6 @@ and voicebanks.
 
 You do not need to own Synthesizer V Studio Pro or any voicebanks.
 
-For more information on YumeKey, see https://jinpwnsoft.re or email support@jinpwnsoft.re
-YumeKey is and always will be free. If you paid for this software, then you've been scammed.
-
 Setup instructions:
 
 1. Copy "obsidian.exe" and "obsidian.dll" to the Synthesizer V Studio Pro install path,
