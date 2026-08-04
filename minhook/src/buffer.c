@@ -1,4 +1,4 @@
-/*
+﻿/*
  *  MinHook - The Minimalistic API Hooking Library for x64/x86
  *  Copyright (C) 2009-2017 Tsuda Kageyu.
  *  All rights reserved.
@@ -310,4 +310,3 @@ BOOL IsExecutableAddress(LPVOID pAddress)
 
     return (mi.State == MEM_COMMIT && (mi.Protect & PAGE_EXECUTE_FLAGS));
 }
-
